@@ -18,9 +18,9 @@ class Config:
 
 
 class MySQLConfig:
-    MYSQL_USERNAME = 'cgp'
-    MYSQL_PASSWORD = 'cgp'
-    MYSQL_HOST = '192.168.27.4'
+    MYSQL_USERNAME = ''
+    MYSQL_PASSWORD = ''
+    MYSQL_HOST = ''
 
 
 # class SqliteConfig:
